@@ -12,7 +12,7 @@ int main(){
     std::cout << "How old are you today?: ";
     std::cin >> age;
 
-    happyBirthday(name, age);  //parenthesis invoke function, think of as telephone, variable has to be run through
+    happyBirthday(name, age);  
     
     return 0;
 }
